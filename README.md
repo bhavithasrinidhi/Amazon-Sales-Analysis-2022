@@ -22,3 +22,5 @@ To analyze Amazon sales data and identify key trends, revenue drivers, and opera
 
 ## Conclusion
 The analysis identified major revenue drivers and operational issues affecting business performance and profitability.
+## Dashboard Preview
+![Dashboard](Dashboard.png)
